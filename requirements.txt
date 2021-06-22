@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+streamlit
+xlrd==1.2.0
